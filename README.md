@@ -1,3 +1,4 @@
+#EXPERIMENTANDO CON EL README
 # Proyecto "Retro" - Desafío Animaciones en CSS
 
 Este proyecto es una página web estática y responsiva que explora la historia fotográfica de Valparaíso a principios del siglo XX. El sitio está diseñado para ser visualmente atractivo y funcional en dispositivos móviles, tablets y de escritorio.
